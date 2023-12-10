@@ -2,9 +2,9 @@
 Minecraft texture pack
 
 Version:
-	001 | 18
+	002
 This Versions Date:
-	12 December 2023
+	10 December 2023
 Date of Creation:
 	12 December 2021
 
