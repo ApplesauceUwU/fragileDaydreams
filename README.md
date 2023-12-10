@@ -9,4 +9,4 @@ Date of Creation:
 	12 December 2021
 
 ## Download
-You can download the latest version of this Texture pack [Here](https://www.mediafire.com/file/pli5uv6mzudjmf5/fragileDaydreams_20-2_v1.zip/file)
+You can download the latest version of this Texture pack [Here](https://www.mediafire.com/file/svy1jjqywkde7mg/fragileDaydreams_20-2_v2.zip/file)
