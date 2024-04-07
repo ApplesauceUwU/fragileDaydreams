@@ -2,7 +2,7 @@
 Minecraft texture pack
 
 Version:
-	002
+	003
 This Versions Date:
 	7 April 2024
 Date of Creation:
